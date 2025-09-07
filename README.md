@@ -5,12 +5,13 @@
 </p>
 
 ## About Me
-Hi! I'm Christine Julliane Reyes, most notably known as Anne. I created [Ryeo Labs](https://ryeolabs.vercel.app/), and I'm passionate about technology, business, and science.  If you’d like to connect, check out my **Socials** below. 
+Hi! I'm Christine Julliane Reyes, most notably known as Anne. I created and founded [Ryeo Labs](https://ryeolabs.vercel.app/), am also a co-founder of Clinivue, and I'm passionate about technology, business, and science. I love joining competitions, presenting, and pitching. If you look at the **Timeline** page in **Ryeo Labs** you will be able to see my overall experience thus far. If you’d like to connect, check out my [Linktree](https://linktr.ee/anneryeo) or the linked media on the left banner of my profile. 🦋 
 
-I like exploring ideas and building solutions that could shape the future. I’m inspired by inventor-like characters—hence the center-fold quote from Louis Robinson at the top, in reference from Meet the Robinsons. 🌸 I look up to tech leaders like Jensen Huang, Lucy Guo, Alexandr Wang (but big on Jensen!).
+I like exploring ideas and building solutions that could shape the future. I’m deeply inspired by inventor-like characters—hence the center-fold quote from Louis Robinson at the top, in reference from Meet the Robinsons. 🌸 I look up to tech leaders like Jensen Huang, Lucy Guo, Alexandr Wang (but big on Jensen!).
 
 Currently (as of Sep 08 2025) an AY2026 graduating student studying BS Data Science at Mapua University.
 
+## Stats
 ###
 
 <div align="center">
