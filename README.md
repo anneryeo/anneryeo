@@ -4,6 +4,17 @@
   <img src="RYEO%20HEADER%2008%20(GitHub)%20(4).gif" alt="Header GIF" />
 </p>
 
+---
+
+## About Me
+Hi! I'm Christine Julliane Reyes, most notably known as Anne. I created [Ryeo Labs](https://ryeolabs.vercel.app/), and I'm passionate about technology, business, and science.  If you’d like to connect, check out my **Socials** below. 
+
+I like exploring ideas and building solutions that could shape the future. I’m inspired by inventor-like characters—hence the center-fold quote from Louis Robinson at the top, in reference from Meet the Robinsons. 🌸 I look up to tech leaders like Jensen Huang, Lucy Guo, Alexandr Wang (but big on Jensen!).
+
+Currently (as of Sep 08 2025) an AY2026 graduating student studying BS Data Science at Mapua University.
+
+---
+
 ###
 
 <div align="center">
