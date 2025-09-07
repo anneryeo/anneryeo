@@ -1,12 +1,12 @@
 <h1 align="center">"Keep moving forward."</h1>
 
-![Name header](RYEO HEADER 08 (GitHub) (4).gif)
+![Header GIF](RYEO%20HEADER%2008%20(GitHub)%20(4).gif)
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1&custom_title=Stats" height="183" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=anneryeo&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1&custom_title=Stats" height="185" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=anneryeo&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="185" alt="streak graph"  />
 </div>
 
 ###
