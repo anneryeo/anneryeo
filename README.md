@@ -5,18 +5,21 @@
 </p>
 
 ## About Me
-Hi! I'm Christine Julliane Reyes, most notably known as Anne. I created and founded [Ryeo Labs](https://ryeolabs.vercel.app/), am also a co-founder of Clinivue, and I'm passionate about technology, business, and science. I love joining competitions, presenting, and pitching. If you look at the **Timeline** page in **Ryeo Labs** you will be able to see my overall experience thus far. If you’d like to connect, check out my [Linktree](https://linktr.ee/anneryeo) or the linked media on the left banner of my profile. 🦋 
+If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 
-I like exploring ideas and building solutions that could shape the future. I’m deeply inspired by inventor-like characters—hence the center-fold quote from Louis Robinson at the top, in reference from Meet the Robinsons. 🌸 I look up to tech leaders like Jensen Huang, Lucy Guo, Alexandr Wang (but big on Jensen!).
+- Founder of RYEO Labs (https://ryeolabs.vercel.app/)
+- Co-founder and Chief Technology Officer of Clinivue (https://www.linkedin.com/company/clinivue/)
+- Aspiring multi-venture founder & inventor.
+- 
 
-Currently (as of Sep 08 2025) an AY2026 graduating student studying BS Data Science at Mapua University.
+<br clear="both">
 
-## Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anneryeo/anneryeo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anneryeo/anneryeo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anneryeo/anneryeo/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=anneryeo&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
