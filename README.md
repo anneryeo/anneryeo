@@ -10,16 +10,5 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 - Founder of RYEO Labs (https://ryeolabs.vercel.app/)
 - Co-founder and Chief Technology Officer of Clinivue (https://www.linkedin.com/company/clinivue/)
 - Aspiring multi-venture founder & inventor.
-- 
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anneryeo/anneryeo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anneryeo/anneryeo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anneryeo/anneryeo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
