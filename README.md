@@ -11,25 +11,16 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 - Co-founder and Chief Technology Officer of [Clinivue](https://www.linkedin.com/company/clinivue/)
 - Aspiring multi-venture founder & inventor.
 
----
-
 ## GitHub Activity
 
-<details>
-  <summary>View Stats</summary>
-  
-  ### Most Used Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&layout=compact&langs_count=8&theme=dark&hide_border=true)
-  
-  ### GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&theme=dark&hide_border=true)
-  
-  ### Streak Stats
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&theme=dark&hide_border=true)
+| |
+|---|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&layout=compact&langs_count=8&theme=dark&hide_border=true" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&theme=dark&hide_border=true" width="400" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&theme=dark&hide_border=true" width="400" /> |
 
   *If the above images don't load, it's due to temporary service issues. Please try again later.*
 </details>
----
 
 <h2 align="center"> Let's Connect </h2>
 <p align="center">
