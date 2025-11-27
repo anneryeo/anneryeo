@@ -13,11 +13,10 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 
 ## GitHub Activity
 
-| |
-|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&layout=compact&langs_count=8&theme=dark&hide_border=true" width="400" /> |
-| <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&theme=dark&hide_border=true" width="400" /> |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&theme=dark&hide_border=true" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&hide_border=true" height="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&langs_count=5&hide_border=true&card_width=200" height="300" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&hide_border=true" height="400" /> |
+|---|---|---|
+
+
 
   *If the above images don't load, it's due to temporary service issues. Please try again later.*
 </details>
