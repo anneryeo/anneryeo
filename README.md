@@ -11,7 +11,7 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 - Co-founder and Chief Technology Officer of [Clinivue](https://www.linkedin.com/company/clinivue/)
 - Aspiring multi-venture founder & inventor.
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
 | <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&hide_border=true" height="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&langs_count=5&hide_border=true&card_width=200" height="300" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&hide_border=true" height="400" /> |
 |---|---|---|
@@ -20,6 +20,7 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 
   *If the above images don't load, it's due to temporary service issues. Please try again later.*
 </details>
+-->
 
 <h2 align="center"> Let's Connect </h2>
 <p align="center">
@@ -42,6 +43,7 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
     <img src="https://img.shields.io/badge/-Youtube-FEA2C5?style=flat-square&logo=youtube&logoColor=black" alt="Youtube" />
   </a>
 </p>
+
 
 ---
 
