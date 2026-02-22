@@ -9,6 +9,7 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 
 - Founder of [RYEO Labs](https://ryeolabs.vercel.app/)
 - Co-founder and Chief Technology Officer of [Clinivue](https://www.linkedin.com/company/clinivue/)
+- Co-founding and building **REVolt**
 - Aspiring multi-venture founder & inventor.
 
 <!-- ## GitHub Activity
