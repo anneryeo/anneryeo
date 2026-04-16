@@ -12,6 +12,12 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 - Co-founding and building **REVolt**
 - Aspiring multi-venture founder & inventor.
 
+Inventor and founder building RYEO Labs — an umbrella organization designed to proliferate inventors and innovators across the world. Currently nurturing ventures in health tech (Clinivue) and energy tech (REVolt), with a focus on solving problems at the intersection of healthcare and environmental sustainability.
+
+My vision is to create a highly successful company that empowers creators, generates resources for freedom and prosperity, and enables me to travel the world, invest in the people I love, and support the causes I care about. I want to speak on stages that matter — bringing more people into the spaces we're building and contributing to world peace through technology and human connection.
+
+Driven by the belief that invention is the path forward. Building to create impact, abundance, and a better future for everyone.
+
 <!-- ## GitHub Activity
 
 | <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&hide_border=true" height="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&langs_count=5&hide_border=true&card_width=200" height="300" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&hide_border=true" height="400" /> |
