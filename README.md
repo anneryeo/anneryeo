@@ -12,11 +12,13 @@ If you want to do extraordinary things, it shouldn't be easy. (Jensen Huang)
 - Co-founding and building **REVolt**
 - Aspiring multi-venture founder & inventor.
 
-Inventor and founder building RYEO Labs — an umbrella organization designed to proliferate inventors and innovators across the world. Currently nurturing ventures in health tech (Clinivue) and energy tech (REVolt), with a focus on solving problems at the intersection of healthcare and environmental sustainability.
+Hi, I'm Anne! 👋
 
-My vision is to create a highly successful company that empowers creators, generates resources for freedom and prosperity, and enables me to travel the world, invest in the people I love, and support the causes I care about. I want to speak on stages that matter — bringing more people into the spaces we're building and contributing to world peace through technology and human connection.
+I build tools at the intersection of AI, hardware, and mobile development. I am currently pursuing a BS in Data Science at Mapúa University and operating as the Founder of RYEO LABS, where I house and scale projects like Clinivue, REVolt, and Landa. Alongside building mobile apps for cardiovascular health and coding decentralized presence-detection networks, I am developing a personal AI assistant named FRANKY to automate my workflow. 
 
-Driven by the belief that invention is the path forward. Building to create impact, abundance, and a better future for everyone.
+My core technical stack includes Python, React Native, Node.js, C++, and TensorFlow. 
+
+When I step away from the keyboard, I am a major movie junkie, and I spend my time writing and worldbuilding. 🦭🪸
 
 <!-- ## GitHub Activity
 
