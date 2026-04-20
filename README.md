@@ -21,7 +21,8 @@
 
 Then a bunch of other things I do is...
 - Joining 20+ comps/events and winning... most of them? Check out my [CV](https://docs.google.com/document/d/1nj8MhDYJrpN70Ft_jwKeNDDP3A6Xbh28ToZV0b4u_lI/edit?usp=sharing) to see my timeline ⌚
-- Speaking and volunteering for some events like [Pizza and Friends](https://www.joinpizza.fun/) or [The Bastion](https://www.linkedin.com/posts/anne-reyes-48b558269_thrilled-to-have-joined-dls-csbs-cybershecurity-ugcPost-7441362637906505728-qyEm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHBWasB8OrD1ck1x6WJaeJ9ClEDk_IT3IA) 🗣️
+- Speaking and volunteering for some events like [Pizza and Friends](https://www.joinpizza.fun/), [The Bastion](https://www.linkedin.com/posts/anne-reyes-48b558269_thrilled-to-have-joined-dls-csbs-cybershecurity-ugcPost-7441362637906505728-qyEm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHBWasB8OrD1ck1x6WJaeJ9ClEDk_IT3IA)
+- or presenting at international festivals like in [Singapore University of Social Sciences](https://www.suss.edu.sg/) (SUSS) 🗣️
 - Taking around 40 [certifications](https://www.linkedin.com/in/anne-reyes-48b558269/details/certifications/) since 1st year of college :p though it's mostly part of my classes
 - Being a member of [ASES Manila](https://www.facebook.com/asesmnl)
 - Research in finance, physics, AI/ML; see @ [ORCID](https://orcid.org/my-orcid?orcid=0009-0000-0943-1278)
