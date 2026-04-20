@@ -38,11 +38,14 @@ When I step away from the keyboard...
 
 ## Here's my 'okay...' GitHub Activity (I'll get there!)
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anneryeo&show_icons=true&hide_border=true&card_width=600" height="300" />
+</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&langs_count=5&hide_border=true&card_width=200" height="300" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&hide_border=true&card_width=600" height="300" />
+</p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneryeo&hide_border=true" height="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneryeo&langs_count=10&hide_border=true&card_width=650" height="300" />
 </p>
 
 <!-- ## GitHub Activity
