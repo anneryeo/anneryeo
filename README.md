@@ -1,7 +1,7 @@
 <h1 align="center">"Keep moving forward."</h1>
 
 <p align="center">
-  <img src="RYEO%20HEADER%2008%20(GitHub)%20(4).gif" alt="Header GIF" />
+  <img src="RYEOHEADER08_GITHUB.gif" alt="Header GIF" />
 </p>
 
 ## About Me
