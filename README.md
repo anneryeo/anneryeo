@@ -33,7 +33,7 @@ Then a bunch of other things I do is...
 ## Hobbies and Interests
 When I step away from the keyboard... 
 - Pilates, black coffee, and trying to be consistent in good, healthy habits 🍀
-- Trying to study mechanical engineering because I wanna learn how to be a car mechanic and be like the characters in Fast and Furious (to race, collect, customize, and repair my own set of cars) 🚘
+- Trying to study mechanical engineering because I wanna learn how to be a car mechanic and be like the characters in the F&F franchise (to race, collect, customize, and repair my own set of cars) 🚘
 - I am a major horror movie junkie, mostly for analysis -- especially those including folklore or religious themes 🧜‍♂️
 - SURFING!! 🌊 Contact sports and martial arts!
 - Quant investing 🪙
