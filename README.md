@@ -27,6 +27,8 @@ Then a bunch of other things I do is...
 - Taking around 40 [certifications](https://www.linkedin.com/in/anne-reyes-48b558269/details/certifications/) since 1st year of college :p though it's mostly part of my classes
 - Being a member of [ASES Manila](https://www.facebook.com/asesmnl)
 - Research in finance, physics, AI/ML; see @ [ORCID](https://orcid.org/my-orcid?orcid=0009-0000-0943-1278)
+- Being [Ms. School of Information Technology 2026](https://www.facebook.com/share/p/1DqwfUYb3n/) -- keen interest on modeling, fashion, and a lil brains 😌🎀
+- Experimenting with electronics and taking apart random items 😗
 
 ## Hobbies and Interests
 When I step away from the keyboard... 
