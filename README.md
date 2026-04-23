@@ -16,7 +16,7 @@
 
 - I'm an expected July 2026 BS Data Science graduate @ Mapua University, PH.
 - Founder, CEO of [**RYEO LABS**](https://ryeolabs.vercel.app/) — My _ultimate_ passion project that is evolving into a collaborative invention ecosystem. Designed to house and scale high-impact startups, research, and technical projects under one umbrella. RYEO LABS is an interdisciplinary community of developers, researchers, and designers in tech, business, engineering, science, and art-- working together toward one goal: "_Fostering freedom in building and **always** breaking through._"
-- Co-founder, CTO of [**Clinivue**](https://www.linkedin.com/company/clinivue/) — A health monitoring app that can capture your heart rate, blood pressure, and spO2 by just using your phone! Launching on Google Play Store (In closed testing @ April 2026)
+- Co-founder, CTO of [**Clinivue**](https://www.linkedin.com/company/clinivue/) — A health monitoring app that can capture your heart rate, blood pressure, and spO2 by just using your phone! Launching on Google Play Store (In closed testing @ April 2026) -> Featured in [The Business Manual](https://thebusinessmanual.ph/?s=clinivue) Magazine!
 - Co-founder, Product Lead of [**REVolt**](https://www.linkedin.com/feed/update/urn:li:activity:7398583503753273344/) — An electric-vehicle-centric app that helps drivers find and calculate routes on nearest EV chargers or reserve them; or be a proprietor and put up a for-rent on your available EV chargers! To be released on Apple App Store by August 2026.
 - Other Projects: [AMBIFY](https://github.com/anneryeo/Ambify) | [LANDA](https://github.com/anneryeo/landa) | [STRATA](https://github.com/anneryeo/strata) | [TRIPS PH](https://github.com/anneryeo/tripsph)
 
